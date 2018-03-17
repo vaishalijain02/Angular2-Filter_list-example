@@ -1,0 +1,51 @@
+<h2 class="head">Articles</h2>
+Search:<input class="mainsearch" [(ngModel)]="query" placeholder="Search..." />
+
+<div class="dropdown">
+  <button class="dropbtn" (click)="toggle()"><img src="assets/filter.png"></button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#" (click)="settoggle(2)">Asc Points</a>
+    <a href="#" (click)="settoggle(1)">Desc Points</a>
+  </div>
+</div>
+<div  *ngIf="filterToggle==0">
+<div class="top_card" *ngFor="let item of data| slice:1 | searchfilter:'title':query | paginate: {itemsPerPage: 5, currentPage:page, id: '1'}">
+<div class="card">
+  <div class="container">
+    <a href="{{item.url}}"><h4><b>{{item.title}}</b></h4></a>
+    <p>{{item.num_points}} points by {{item.author}} {{item.created_at}} | {{item.num_comments}} comments</p>
+  </div>
+</div>
+</div>
+</div>
+<div  *ngIf="filterToggle==1">
+<div class="top_card" *ngFor="let item of data| slice:1 | searchfilter:'title':query | orderBy : ['-num_points'] | paginate: {itemsPerPage: 5, currentPage:page, id: '1'}">
+<div class="card">
+  <div class="container">
+    <a href="{{item.url}}"><h4><b>{{item.title}}</b></h4></a>
+    <p>{{item.num_points}} points by {{item.author}} {{item.created_at}} | {{item.num_comments}} comments</p>
+  </div>
+</div>
+</div>
+</div>
+
+<div *ngIf="filterToggle==2">
+<div class="top_card" *ngFor="let item of data| slice:1 | searchfilter:'title':query | orderBy : ['+num_points'] | paginate: {itemsPerPage: 5, currentPage:page, id: '1'}">
+<div class="card">
+  <div class="container">
+    <a href="{{item.url}}"><h4><b>{{item.title}}</b></h4></a>
+    <p>{{item.num_points}} points by {{item.author}} {{item.created_at}} | {{item.num_comments}} comments</p>
+  </div>
+</div>
+</div>
+</div>
+<div class="paginate">
+<pagination-controls (pageChange)="page = $event" id="1"
+                      maxSize="5"
+                      directionLinks="true"
+                      autoHide="true">
+</pagination-controls>
+</div>
+
+
+

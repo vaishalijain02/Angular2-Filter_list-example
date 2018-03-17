@@ -1,0 +1,359 @@
+[
+   {
+      "api_rate_limit":50000
+   },
+   {
+      "id":12579008,
+      "title":"You have two days to comment if you want stem cells to be classified as your own",
+      "url":"http://www.regulations.gov/document?D=FDA-2015-D-3719-0018",
+      "num_points":1,
+      "num_comments":0,
+      "author":"altstar",
+      "created_at":"9/26/2016 3:26"
+   },
+   {
+      "id":12579005,
+      "title":"SQLAR  the SQLite Archiver",
+      "url":"https://www.sqlite.org/sqlar/doc/trunk/README.md",
+      "num_points":1,
+      "num_comments":0,
+      "author":"blacksqr",
+      "created_at":"9/26/2016 3:24"
+   },
+   {
+      "id":12578997,
+      "title":"What if we just printed a flatscreen television on the side of our boxes?",
+      "url":"https://medium.com/vanmoof/our-secrets-out-f21c1f03fdc8#.ietxmez43",
+      "num_points":1,
+      "num_comments":0,
+      "author":"pavel_lishin",
+      "created_at":"9/26/2016 3:19"
+   },
+   {
+      "id":12578989,
+      "title":"algorithmic music",
+      "url":"http://cacm.acm.org/magazines/2011/7/109891-algorithmic-composition/fulltext",
+      "num_points":1,
+      "num_comments":0,
+      "author":"poindontcare",
+      "created_at":"9/26/2016 3:16"
+   },
+   {
+      "id":12578979,
+      "title":"How the Data Vault Enables the Next-Gen Data Warehouse and Data Lake",
+      "url":"https://www.talend.com/blog/2016/05/12/talend-and-Âthe-data-vaultÂ",
+      "num_points":1,
+      "num_comments":0,
+      "author":"markgainor1",
+      "created_at":"9/26/2016 3:14"
+   },
+   {
+      "id":12578975,
+      "title":"Saving the Hassle of Shopping",
+      "url":"https://blog.menswr.com/2016/09/07/whats-new-with-your-style-feed/",
+      "num_points":1,
+      "num_comments":1,
+      "author":"bdoux",
+      "created_at":"9/26/2016 3:13"
+   },
+   {
+      "id":12578954,
+      "title":"Macalifa  A new open-source music app for UWP that won't suck",
+      "url":"http://forums.windowscentral.com/windows-phone-apps/440523-macalifa-new-open-source-music-app-uwp-wont-suck.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"thecodrr",
+      "created_at":"9/26/2016 3:06"
+   },
+   {
+      "id":12578942,
+      "title":"GitHub  theweavrs/Macalifa: A music player written for UWP",
+      "url":"https://github.com/theweavrs/Macalifa",
+      "num_points":1,
+      "num_comments":0,
+      "author":"thecodrr",
+      "created_at":"9/26/2016 3:04"
+   },
+   {
+      "id":12578919,
+      "title":"Google Allo  first Impression",
+      "url":"http://prodissues.com/2016/09/google-allo-first-impression.html",
+      "num_points":3,
+      "num_comments":0,
+      "author":"jandll",
+      "created_at":"9/26/2016 2:57"
+   },
+   {
+      "id":12578918,
+      "title":"Advanced Multimedia on the Linux Command Line",
+      "url":"https://avi.alkalay.net/2016/09/multimedia-linux-cli.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"mynameislegion",
+      "created_at":"9/26/2016 2:56"
+   },
+   {
+      "id":12578908,
+      "title":"Ask HN: What TLD do you use for local development?",
+      "url":"",
+      "num_points":4,
+      "num_comments":7,
+      "author":"Sevrene",
+      "created_at":"9/26/2016 2:53"
+   },
+   {
+      "id":12578893,
+      "title":"Muroc Maru",
+      "url":"http://www.weirdca.com/location.php?location=511",
+      "num_points":1,
+      "num_comments":0,
+      "author":"x43b",
+      "created_at":"9/26/2016 2:46"
+   },
+   {
+      "id":12578879,
+      "title":"Why companies make their products worse",
+      "url":"https://www.1843magazine.com/ideas/the-daily/why-companies-make-their-products-worse",
+      "num_points":4,
+      "num_comments":0,
+      "author":"RachelF",
+      "created_at":"9/26/2016 2:40"
+   },
+   {
+      "id":12578866,
+      "title":"Tuning AWS SQS Queues",
+      "url":"http://blog.simontaranto.com/post/2016-09-25-tuning-aws-sqs.html/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"srt32",
+      "created_at":"9/26/2016 2:37"
+   },
+   {
+      "id":12578857,
+      "title":"The Promise of GitHub",
+      "url":"http://constantbetasoftware.com/2016/09/26/github.html",
+      "num_points":2,
+      "num_comments":0,
+      "author":"ttam",
+      "created_at":"9/26/2016 2:34"
+   },
+   {
+      "id":12578834,
+      "title":"Joint R&D Has Its Ups and Downs",
+      "url":"http://semiengineering.com/joint-rd-has-its-ups-and-downs/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Lind5",
+      "created_at":"9/26/2016 2:28"
+   },
+   {
+      "id":12578831,
+      "title":"IBM announces next implementation of Apples Swift developer language",
+      "url":"https://9to5mac.com/2016/09/25/ibm-announces-next-implementation-of-apples-swift-developer-language",
+      "num_points":2,
+      "num_comments":0,
+      "author":"phodo",
+      "created_at":"9/26/2016 2:28"
+   },
+   {
+      "id":12578822,
+      "title":"Amazons Algorithms Dont Find You the Best Deals",
+      "url":"https://www.technologyreview.com/s/602442/amazons-algorithms-dont-find-you-the-best-deals/",
+      "num_points":1,
+      "num_comments":1,
+      "author":"yarapavan",
+      "created_at":"9/26/2016 2:26"
+   },
+   {
+      "id":12578816,
+      "title":"Ruffled Feathers",
+      "url":"http://www.texasmonthly.com/articles/whooping-cranes-texas/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Thevet",
+      "created_at":"9/26/2016 2:23"
+   },
+   {
+      "id":12578806,
+      "title":"The Veil of Ignorance  Design and Accessbility",
+      "url":"https://blog.marvelapp.com/the-veil-of-ignorance/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"muratmutlu",
+      "created_at":"9/26/2016 2:21"
+   },
+   {
+      "id":12578796,
+      "title":"OMeta#: Who? What? When? Where? Why? (2008)",
+      "url":"http://www.moserware.com/2008/06/ometa-who-what-when-where-why.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"adamnemecek",
+      "created_at":"9/26/2016 2:18"
+   },
+   {
+      "id":12578791,
+      "title":"Burning Ship fractal",
+      "url":"https://en.wikipedia.org/wiki/Burning_Ship_fractal",
+      "num_points":2,
+      "num_comments":0,
+      "author":"colinprince",
+      "created_at":"9/26/2016 2:17"
+   },
+   {
+      "id":12578786,
+      "title":"From Hiroko to Susie: The untold stories of Japanese war brides",
+      "url":"http://www.washingtonpost.com/sf/national/2016/09/22/from-hiroko-to-susie-the-untold-stories-of-japanese-war-brides/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"kawera",
+      "created_at":"9/26/2016 2:16"
+   },
+   {
+      "id":12578753,
+      "title":"ROBOLUTION:Robocalyptic Themed Machine Learning and Computer Vision Tutorials",
+      "url":"http://robolution.co/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"v3ss0n",
+      "created_at":"9/26/2016 2:07"
+   },
+   {
+      "id":12578738,
+      "title":"Segas Plans for World Domination (1993)",
+      "url":"https://www.wired.com/1993/06/sega/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"luu",
+      "created_at":"9/26/2016 2:04"
+   },
+   {
+      "id":12578725,
+      "title":"Google Car: Sense and Money Impasse",
+      "url":"https://mondaynote.com/google-car-sense-and-money-impasse-1e5dcf1924d#.15qm8e56e",
+      "num_points":4,
+      "num_comments":0,
+      "author":"kawera",
+      "created_at":"9/26/2016 2:01"
+   },
+   {
+      "id":12578705,
+      "title":"Why an open Web is important when sea levels are rising",
+      "url":"https://changelog.com/221/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"mynameislegion",
+      "created_at":"9/26/2016 1:58"
+   },
+   {
+      "id":12578700,
+      "title":"Forever 23: The Rapid Rise and Sudden Disappearance of Velva Darling",
+      "url":"http://pictorial.jezebel.com/forever-23-the-rapid-rise-and-sudden-disappearance-of-1786330859",
+      "num_points":1,
+      "num_comments":0,
+      "author":"samclemens",
+      "created_at":"9/26/2016 1:57"
+   },
+   {
+      "id":12578694,
+      "title":"Emergency dose of epinephrine that does not cost an arm and a leg",
+      "url":"http://m.imgur.com/gallery/th6Ua",
+      "num_points":2,
+      "num_comments":1,
+      "author":"dredmorbius",
+      "created_at":"9/26/2016 1:54"
+   },
+   {
+      "id":12578681,
+      "title":"Abu Ashraf Masnun: Introduction to Django Channels",
+      "url":"http://masnun.rocks/2016/09/25/introduction-to-django-channels/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"samber",
+      "created_at":"9/26/2016 1:49"
+   },
+   {
+      "id":12578667,
+      "title":"Airlines Embrace Pollution Plan That Could Cost Them $24B",
+      "url":"http://www.bloomberg.com/news/articles/2016-09-25/airlines-embrace-pollution-plan-that-could-cost-them-24-billion",
+      "num_points":1,
+      "num_comments":0,
+      "author":"blondie9x",
+      "created_at":"9/26/2016 1:47"
+   },
+   {
+      "id":12578665,
+      "title":"China Completes Largest Radio Telescope in the World",
+      "url":"http://www.npr.org/sections/thetwo-way/2016/09/25/495036700/china-completes-largest-radio-telescope-in-the-world",
+      "num_points":1,
+      "num_comments":0,
+      "author":"happy-go-lucky",
+      "created_at":"9/26/2016 1:46"
+   },
+   {
+      "id":12578662,
+      "title":"The Fastest Electric Vehicle in the World",
+      "url":"http://pluginfuture.com/the-fastest-electric-vehicle-in-the-world/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"peterkor",
+      "created_at":"9/26/2016 1:46"
+   },
+   {
+      "id":12578649,
+      "title":"Arnold Palmer dead at 87",
+      "url":"http://www.espn.com/golf/story/_/id/17639539/arnold-palmer-dies-87",
+      "num_points":3,
+      "num_comments":0,
+      "author":"execCoach",
+      "created_at":"9/26/2016 1:43"
+   },
+   {
+      "id":12578624,
+      "title":"Phone Makers Could Cut Off Drivers. So Why Dont They?",
+      "url":"http://www.nytimes.com/2016/09/25/technology/phone-makers-could-cut-off-drivers-so-why-dont-they.html",
+      "num_points":4,
+      "num_comments":1,
+      "author":"danso",
+      "created_at":"9/26/2016 1:37"
+   },
+   {
+      "id":12578604,
+      "title":"THE ENIAC:Electronic Numerical Integrator and Computer",
+      "url":"https://www.youtube.com/watch?v=goi6NAHMKog",
+      "num_points":1,
+      "num_comments":0,
+      "author":"bane",
+      "created_at":"9/26/2016 1:32"
+   },
+   {
+      "id":12578568,
+      "title":"Cuba's DIY Inventions from 30 Years of Isolation [video]",
+      "url":"https://www.youtube.com/watch?v=v-XS4aueDUg",
+      "num_points":1,
+      "num_comments":0,
+      "author":"GuiA",
+      "created_at":"9/26/2016 1:26"
+   },
+   {
+      "id":12578556,
+      "title":"OpenMW, Open Source Elderscrolls III: Morrowind Reimplementation",
+      "url":"https://openmw.org/en/",
+      "num_points":32,
+      "num_comments":3,
+      "author":"rocky1138",
+      "created_at":"9/26/2016 1:24"
+   },
+   {
+      "id":12578548,
+      "title":"Shame on Microsoft for Leaving Surface Pro Customers in the Dark",
+      "url":"https://redmondmag.com/articles/2016/10/01/surface-pro-customers-in-the-dark.aspx",
+      "num_points":2,
+      "num_comments":0,
+      "author":"megamike48",
+      "created_at":"9/26/2016 1:23"
+   }
+   ]
+   
+   
+   
