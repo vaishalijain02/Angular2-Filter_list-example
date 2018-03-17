@@ -17,7 +17,7 @@ npm i ng2-pagination --save
 2. After installation of node js, on cmd:
    npm install -g @angular/cli
 
-Download the weather report and install the required packages and run the application
+Download the application and install the required packages and run the application
 
 Installing
 
