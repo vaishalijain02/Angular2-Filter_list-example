@@ -25,8 +25,4 @@ export class AppComponent {
 	document.getElementById("myDropdown").classList.toggle("show");
 
     }
-
-	
-
-  
 }
