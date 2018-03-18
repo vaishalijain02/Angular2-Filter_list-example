@@ -29,7 +29,7 @@ export class OrderByPipe implements PipeTransform {
             //console.log("input:",input,!Array.isArray(prop),prop[0]);
         
             var order:string = !Array.isArray(prop) ? prop : prop[0];
-            var acsn = order.substr(0, 1) == '-';
+            var acsn = order.substr(0, 1) == '+';
             if(!order || order == '-' || order == '+'){
                 return acsn ? input.sort() : input.sort().reverse();
             }
